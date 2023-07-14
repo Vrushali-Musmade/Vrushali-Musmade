@@ -1,7 +1,8 @@
 -  Hi, I’m @Vrushali-Musmade
 -  Education : BBA(CA) Through Pune university
+-  I’m currently learning java full stack in Hefshine software.
+-  coding is everything.
 -  I’m interested in working in such a organization in which i can grow up my self.
--  I’m currently learning java full stack in Hefshine software...
    
 - 
 
